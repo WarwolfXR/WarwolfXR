@@ -158,18 +158,6 @@ Building AI-powered web applications with end-to-end type safety and clean archi
 <tr>
 <td align="center" width="50%">
 
-### **Serene — Emotional Wellbeing Companion**
-AI-powered journaling system with sentiment analysis, crisis detection, and React + FastAPI stack.
-
-**Stack:** React, FastAPI, LangChain, Google GenAI, PostgreSQL
-
-<a href="https://github.com/AdityaDotEnv/Serene---Mental-Health-Companion">
-  <img src="https://github-readme-stats-vercel-inky.vercel.app/api/pin/?username=AdityaDotEnv&repo=Serene---Mental-Health-Companion&theme=chartreuse-dark" width="100%" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
 ### **XploitSim — Cybersecurity Simulation Platform**
 Interactive attack/defense simulation with real-time visualization (TypeScript, D3, FastAPI).
 
@@ -180,11 +168,47 @@ Interactive attack/defense simulation with real-time visualization (TypeScript, 
 </a>
 
 </td>
+<td align="center" width="50%">
+
+### **Buzzinga — Real-Time Multiplayer Quiz Platform**
+High-energy, real-time multiplayer quiz platform with AI-powered quiz builder and dynamic host controls.
+
+**Stack:** React, Node.js, Express, MongoDB, Socket.IO, Tailwind CSS, Redux Toolkit
+
+<a href="https://github.com/AdityaDotEnv/Buzzinga">
+  <img src="https://github-readme-stats-vercel-inky.vercel.app/api/pin/?username=AdityaDotEnv&repo=Buzzinga&theme=chartreuse-dark" width="100%" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### **AutoSplit — Intelligent Bill Splitting Engine**
+Deterministic OCR pipeline with NLP heuristics and LLM fallback for receipt parsing and expense allocation.
+
+**Stack:** React, Flask, Socket.IO, ONNX Runtime, SQLAlchemy, SpaCy, Google Gemini
+
+<a href="https://github.com/AdityaDotEnv/AutoSplit">
+  <img src="https://github-readme-stats-vercel-inky.vercel.app/api/pin/?username=AdityaDotEnv&repo=AutoSplit&theme=chartreuse-dark" width="100%" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### *[Coming Soon]*
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3gyZ3FrbzgxZ3h2MDlwc3h3YzNjbjY0cXZ5bm5sbWVoanhjNHE2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J8t9H4Z7Wp3fq/giphy.gif" width="100%" />
+</p>
+
+*Keep your peepers 👀 peeled.*
+
+</td>
 </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
-
 ## 💼 Experience & Key Achievements
 
 ### React Web Developer Intern
