@@ -11,30 +11,9 @@ Building AI-powered web applications with end-to-end type safety and clean archi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
 
-## 🧠 What I'm Building & Sharpening
-
-### AI-Powered Applications
-- **Job Analyzer & Roadmap Generator**: Built with LangChain + Google GenAI to parse job descriptions and generate personalized up-skilling roadmaps
-- **Serene - Emotional Wellbeing Companion**: AI journaling system with sentiment analysis and crisis detection
-- Exploring structured LLM outputs using `instructor` and Pydantic for type-safe AI integrations
-
-### Advanced Frontend Engineering (React)
-- Architecting complex React applications with predictable state flow (**Redux Toolkit** - migrated from Zustand for better persistence)
-- Server-state management using **TanStack Query** with real-time sync patterns
-- Building modular, template-based **Resume Builder** with 5+ dynamic templates and PDF export (@react-pdf/renderer)
-- UI component libraries: **Shadcn UI**, **Radix UI**, **Framer Motion** animations
-- Form handling with **React Hook Form** + **Zod** validation
-
-### Backend & API Design
-- Designing strongly-typed request/response contracts using **Pydantic v2**
-- Building FastAPI backends with async SQLAlchemy, Alembic migrations, and dependency injection
-- Ensuring smooth frontend ↔ backend integration through shared OpenAPI schemas
-- PostgreSQL database design with Supabase ecosystem (auth, storage, real-time)
-
 ### Currently Exploring: Rust 🦀 & Advanced ML
 - Rust: ownership model, zero-cost abstractions, and building performant CLI tools
 - ML: PyTorch, scikit-learn, and integrating embedding APIs for semantic search
-- Exploring structured LLM outputs using `instructor`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
 
@@ -209,23 +188,6 @@ Deterministic OCR pipeline with NLP heuristics and LLM fallback for receipt pars
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
-## 💼 Experience & Key Achievements
-
-### React Web Developer Intern
-- Developing and maintaining React-based web applications (TypeScript, Vite)
-- Building reusable UI components and predictable state flows (Zustand + TanStack Query)
-- Integrating REST / FastAPI backends, improving performance through profiling and refactoring
-- Collaborating with backend systems using clearly defined contracts (OpenAPI, Pydantic)
-- Implementing CI/CD pipelines with GitHub Actions for automated testing
-
-### Key Achievements
-- **AI-Powered Job Analyzer**: Engineered an LLM-powered system using LangChain and Google GenAI to parse job descriptions and generate personalized up-skilling roadmaps
-- **Modular Resume Builder**: Developed with 10+ dynamic templates, migrated state from Zustand to Redux Toolkit for robust persistence, integrated @react-pdf for PDF export
-- **End-to-End Type Safety**: Synchronized TypeScript interfaces with Pydantic models and SQLAlchemy schemas; managed database structure with Alembic migrations
-- **Authentication & UX**: Implemented GitHub OAuth via Supabase, role-based access, and responsive animations with Framer Motion
-- **Architecture Improvements**: Led codebase modularization and state management migration for better scalability and maintainability
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
 
 ## 📊 GitHub Activity
 
@@ -243,15 +205,19 @@ Deterministic OCR pipeline with NLP heuristics and LLM fallback for receipt pars
 ## 📫 Contact
 
 <p align="center">
+    <a href="https://github.com/AdityaDotEnv">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/AdityaDotEnv">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/aditya--k/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityak.10102005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AdityaDotEnv">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
