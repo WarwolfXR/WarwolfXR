@@ -1,4 +1,4 @@
-### 🧠 I try to build cool and awesomely elaborate projects based on whatever I see in flashes of inspiration. 💡
+### 🧠 Building stuff I see in random flashes of imagination.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=51f542&height=3" width="100%"/>
 
